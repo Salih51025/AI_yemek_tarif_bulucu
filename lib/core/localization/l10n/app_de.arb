@@ -1,0 +1,91 @@
+﻿{
+  "@@locale": "de",
+  "appName": "AI Chef",
+
+  "navGenerate": "Erstellen",
+  "navTrending": "Trends",
+  "navSaved": "Gespeichert",
+  "navProfile": "Profil",
+
+  "generateTitle": "Mit KI erstellen",
+  "generateHero": "Sag uns, was du hast.\nWir erstellen Rezepte, die du lieben wirst.",
+  "ingredientPhotoTitle": "Zutatenfoto",
+  "tapToAddPhoto": "Tippen, um ein Foto hinzuzufügen",
+  "ingredientsCardTitle": "Was ist in deiner Küche?",
+  "ingredientsCardSubtitle": "Füge Zutaten hinzu oder mache oben ein Foto",
+  "ingredientHint": "z.B. Tomate, Hähnchen…",
+  "noIngredientsYet": "Noch keine Zutaten",
+  "generateButton": "Rezepte generieren",
+  "scanButton": "Scannen",
+  "shareButton": "Teilen",
+  "saveButton": "Speichern",
+  "savedButton": "Gespeichert",
+
+  "aiCookingTitle": "AI Chef kocht",
+  "aiThinking1": "Zutaten werden analysiert…",
+  "aiThinking2": "Beste Rezepte werden gesucht…",
+  "aiThinking3": "Personalisierte Gerichte werden erstellt…",
+  "aiThinking4": "Fast fertig…",
+
+  "favoritesTitle": "Gespeicherte Rezepte",
+  "favoritesEmptyTitle": "Noch keine gespeicherten Rezepte",
+  "favoritesEmptyBody": "Tippe beim Stöbern auf das Herz — dann erscheint es hier sofort.",
+
+  "profileTitle": "Profil",
+  "preferencesTitle": "Einstellungen",
+  "appearanceTitle": "Darstellung",
+  "appearanceSystem": "System",
+  "appearanceLight": "Hell",
+  "appearanceDark": "Dunkel",
+  "hometownTitle": "Heimat",
+  "rememberLocationTitle": "Standort merken",
+
+  "languageTitle": "Sprache",
+  "languageEnglish": "English",
+  "languageTurkish": "Türkçe",
+  "languageGerman": "Deutsch",
+  "languageJapanese": "日本語",
+  "recipesFound": "{count} Rezepte gefunden",
+  "generatedRecipesTitle": "Generierte Rezepte",
+  "newSearch": "Neue Suche",
+  "noRecipesYetTitle": "Noch keine Rezepte",
+  "noRecipesYetBody": "Füge Zutaten hinzu oder lade ein Foto hoch, um Rezepte zu generieren",
+  "startNewSearch": "Neue Suche starten",
+  "recipeGenerationFailedTitle": "Rezepterstellung fehlgeschlagen",
+  "tryAgain": "Erneut versuchen",
+  "retry": "Wiederholen",
+  "ingredientsLabel": "Zutaten",
+  "stepsLabel": "Schritte",
+  "instructionsLabel": "Anleitung",
+  "showMore": "Mehr anzeigen",
+  "showLess": "Weniger anzeigen",
+  "couldNotPickImage": "Bild konnte nicht ausgewählt werden",
+  "addIngredientsOrUpload": "Zutaten hinzufügen oder Foto hochladen",
+  "okLabel": "OK",
+  "noTrendingRecipesYet": "Noch keine Trend-Rezepte",
+  "beFirstToSaveRecipe": "Speichere als Erste:r ein Rezept!",
+  "preparingKitchen": "Deine Küche wird vorbereitet…",
+  "minutesShort": "{value} Min.",
+  "servingsLabel": "{value} Portionen",
+  "caloriesLabel": "{value} kcal",
+  "@recipesFound": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@minutesShort": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@servingsLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@caloriesLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  }
+}

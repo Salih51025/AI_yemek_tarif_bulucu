@@ -1,0 +1,91 @@
+﻿{
+  "@@locale": "ja",
+  "appName": "AI Chef",
+
+  "navGenerate": "作成",
+  "navTrending": "トレンド",
+  "navSaved": "保存済み",
+  "navProfile": "プロフィール",
+
+  "generateTitle": "AIで作成",
+  "generateHero": "ある材料を教えてください。\nあなたが好きなレシピを作ります。",
+  "ingredientPhotoTitle": "材料の写真",
+  "tapToAddPhoto": "タップして写真を追加",
+  "ingredientsCardTitle": "キッチンに何がありますか？",
+  "ingredientsCardSubtitle": "材料を追加するか、上で写真を撮ってください",
+  "ingredientHint": "例：トマト、鶏肉…",
+  "noIngredientsYet": "材料がまだありません",
+  "generateButton": "レシピを生成",
+  "scanButton": "スキャン",
+  "shareButton": "共有",
+  "saveButton": "保存",
+  "savedButton": "保存済み",
+
+  "aiCookingTitle": "AI Chef が調理中",
+  "aiThinking1": "材料を分析しています…",
+  "aiThinking2": "最適なレシピを探しています…",
+  "aiThinking3": "あなた向けにレシピを作成しています…",
+  "aiThinking4": "もうすぐ完了…",
+
+  "favoritesTitle": "保存したレシピ",
+  "favoritesEmptyTitle": "保存したレシピがありません",
+  "favoritesEmptyBody": "閲覧中にハートを押すと、ここにすぐ表示されます。",
+
+  "profileTitle": "プロフィール",
+  "preferencesTitle": "設定",
+  "appearanceTitle": "外観",
+  "appearanceSystem": "システム",
+  "appearanceLight": "ライト",
+  "appearanceDark": "ダーク",
+  "hometownTitle": "地域",
+  "rememberLocationTitle": "場所を記憶する",
+
+  "languageTitle": "言語",
+  "languageEnglish": "English",
+  "languageTurkish": "Türkçe",
+  "languageGerman": "Deutsch",
+  "languageJapanese": "日本語",
+  "recipesFound": "{count}件のレシピが見つかりました",
+  "generatedRecipesTitle": "生成されたレシピ",
+  "newSearch": "新規検索",
+  "noRecipesYetTitle": "レシピがまだありません",
+  "noRecipesYetBody": "材料を追加するか写真をアップロードしてレシピを生成してください",
+  "startNewSearch": "新しい検索を開始",
+  "recipeGenerationFailedTitle": "レシピ生成に失敗しました",
+  "tryAgain": "再試行",
+  "retry": "再実行",
+  "ingredientsLabel": "材料",
+  "stepsLabel": "手順",
+  "instructionsLabel": "作り方",
+  "showMore": "もっと見る",
+  "showLess": "閉じる",
+  "couldNotPickImage": "画像を選択できませんでした",
+  "addIngredientsOrUpload": "材料を追加するか写真をアップロードしてください",
+  "okLabel": "OK",
+  "noTrendingRecipesYet": "トレンドレシピはまだありません",
+  "beFirstToSaveRecipe": "最初にレシピを保存しましょう！",
+  "preparingKitchen": "キッチンを準備しています…",
+  "minutesShort": "{value}分",
+  "servingsLabel": "{value}人前",
+  "caloriesLabel": "{value} kcal",
+  "@recipesFound": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@minutesShort": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@servingsLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@caloriesLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  }
+}

@@ -1,0 +1,91 @@
+﻿{
+  "@@locale": "tr",
+  "appName": "AI Chef",
+
+  "navGenerate": "Üret",
+  "navTrending": "Trend",
+  "navSaved": "Kayıtlı",
+  "navProfile": "Profil",
+
+  "generateTitle": "Yapay Zekâ ile Oluştur",
+  "generateHero": "Elindeki malzemeleri yaz.\nSana seveceğin tarifler hazırlayalım.",
+  "ingredientPhotoTitle": "Malzeme fotoğrafı",
+  "tapToAddPhoto": "Fotoğraf eklemek için dokun",
+  "ingredientsCardTitle": "Mutfakta neler var?",
+  "ingredientsCardSubtitle": "Malzemeleri ekle veya yukarıdan fotoğraf çek",
+  "ingredientHint": "ör. domates, tavuk…",
+  "noIngredientsYet": "Henüz malzeme yok",
+  "generateButton": "Tarif Oluştur",
+  "scanButton": "Tara",
+  "shareButton": "Paylaş",
+  "saveButton": "Kaydet",
+  "savedButton": "Kaydedildi",
+
+  "aiCookingTitle": "AI Chef pişiriyor",
+  "aiThinking1": "Malzemeler analiz ediliyor…",
+  "aiThinking2": "En iyi tarifler aranıyor…",
+  "aiThinking3": "Kişisel tarifler hazırlanıyor…",
+  "aiThinking4": "Neredeyse hazır…",
+
+  "favoritesTitle": "Kayıtlı Tarifler",
+  "favoritesEmptyTitle": "Henüz kayıtlı tarif yok",
+  "favoritesEmptyBody": "Gezinirken kalbe bas — tarif burada hemen görünsün.",
+
+  "profileTitle": "Profil",
+  "preferencesTitle": "Tercihler",
+  "appearanceTitle": "Görünüm",
+  "appearanceSystem": "Sistem",
+  "appearanceLight": "Açık",
+  "appearanceDark": "Koyu",
+  "hometownTitle": "Bölge",
+  "rememberLocationTitle": "Konumumu hatırla",
+
+  "languageTitle": "Dil",
+  "languageEnglish": "English",
+  "languageTurkish": "Türkçe",
+  "languageGerman": "Deutsch",
+  "languageJapanese": "日本語",
+  "recipesFound": "{count} tarif bulundu",
+  "generatedRecipesTitle": "Oluşturulan Tarifler",
+  "newSearch": "Yeni Arama",
+  "noRecipesYetTitle": "Henüz tarif yok",
+  "noRecipesYetBody": "Tarif oluşturmak için malzeme ekle veya fotoğraf yükle",
+  "startNewSearch": "Yeni Aramaya Başla",
+  "recipeGenerationFailedTitle": "Tarif oluşturma başarısız",
+  "tryAgain": "Tekrar Dene",
+  "retry": "Yeniden Dene",
+  "ingredientsLabel": "Malzemeler",
+  "stepsLabel": "Adımlar",
+  "instructionsLabel": "Talimatlar",
+  "showMore": "Daha Fazla",
+  "showLess": "Daha Az",
+  "couldNotPickImage": "Görsel seçilemedi",
+  "addIngredientsOrUpload": "Malzeme ekleyin veya fotoğraf yükleyin",
+  "okLabel": "Tamam",
+  "noTrendingRecipesYet": "Henüz trend tarif yok",
+  "beFirstToSaveRecipe": "İlk kaydeden siz olun!",
+  "preparingKitchen": "Mutfağın hazırlanıyor…",
+  "minutesShort": "{value} dk",
+  "servingsLabel": "{value} porsiyon",
+  "caloriesLabel": "{value} kalori",
+  "@recipesFound": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@minutesShort": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@servingsLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@caloriesLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  }
+}

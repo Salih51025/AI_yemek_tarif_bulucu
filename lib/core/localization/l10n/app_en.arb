@@ -1,0 +1,91 @@
+﻿{
+  "@@locale": "en",
+  "appName": "AI Chef",
+
+  "navGenerate": "Generate",
+  "navTrending": "Trending",
+  "navSaved": "Saved",
+  "navProfile": "Profile",
+
+  "generateTitle": "Create with AI",
+  "generateHero": "Tell us what you have.\nWe'll craft recipes you'll love.",
+  "ingredientPhotoTitle": "Ingredient photo",
+  "tapToAddPhoto": "Tap to add photo",
+  "ingredientsCardTitle": "What's in your kitchen?",
+  "ingredientsCardSubtitle": "Add items or snap a photo above",
+  "ingredientHint": "e.g. tomato, chicken…",
+  "noIngredientsYet": "No ingredients yet",
+  "generateButton": "Generate Recipes",
+  "scanButton": "Scan",
+  "shareButton": "Share",
+  "saveButton": "Save",
+  "savedButton": "Saved",
+
+  "aiCookingTitle": "AI Chef is cooking",
+  "aiThinking1": "Analyzing your ingredients…",
+  "aiThinking2": "Searching best recipes…",
+  "aiThinking3": "Creating personalized meals…",
+  "aiThinking4": "Almost ready…",
+
+  "favoritesTitle": "Saved Recipes",
+  "favoritesEmptyTitle": "No saved recipes yet",
+  "favoritesEmptyBody": "Heart any recipe while browsing — it'll appear here instantly.",
+
+  "profileTitle": "Profile",
+  "preferencesTitle": "Preferences",
+  "appearanceTitle": "Appearance",
+  "appearanceSystem": "System",
+  "appearanceLight": "Light",
+  "appearanceDark": "Dark",
+  "hometownTitle": "Hometown",
+  "rememberLocationTitle": "Remember my location",
+
+  "languageTitle": "Language",
+  "languageEnglish": "English",
+  "languageTurkish": "Türkçe",
+  "languageGerman": "Deutsch",
+  "languageJapanese": "日本語",
+  "recipesFound": "{count} recipes found",
+  "generatedRecipesTitle": "Generated Recipes",
+  "newSearch": "New Search",
+  "noRecipesYetTitle": "No recipes yet",
+  "noRecipesYetBody": "Add ingredients or upload a photo\nto generate recipes",
+  "startNewSearch": "Start New Search",
+  "recipeGenerationFailedTitle": "Recipe generation failed",
+  "tryAgain": "Try Again",
+  "retry": "Retry",
+  "ingredientsLabel": "Ingredients",
+  "stepsLabel": "Steps",
+  "instructionsLabel": "Instructions",
+  "showMore": "Show More",
+  "showLess": "Show Less",
+  "couldNotPickImage": "Could not pick image",
+  "addIngredientsOrUpload": "Add ingredients or upload a photo",
+  "okLabel": "OK",
+  "noTrendingRecipesYet": "No trending recipes yet",
+  "beFirstToSaveRecipe": "Be the first to save a recipe!",
+  "preparingKitchen": "Preparing your kitchen…",
+  "minutesShort": "{value} min",
+  "servingsLabel": "{value} servings",
+  "caloriesLabel": "{value} cal",
+  "@recipesFound": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@minutesShort": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@servingsLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "@caloriesLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  }
+}
